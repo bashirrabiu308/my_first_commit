@@ -1,0 +1,8 @@
+Bashir, 83,   A
+Alamin, 78,   A
+Ibrahim, 90,   A
+Abdulsalam, 65,   B
+Sani, 37,   F
+Shagari, 96,   A
+Abdulrahman, 56,   C
+54, 60, B
