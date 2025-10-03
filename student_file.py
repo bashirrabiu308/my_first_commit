@@ -21,7 +21,7 @@ def calculate_grade(score):
 def add_student():
     name = input("Enter student name: ").strip()
     while not name:
-        name = input("Name cannot be empty. Enter student    name: ").strip()
+        name = input("Name cannot be empty. Enter student name: ").strip()
 
     score = get_valid_score()
     grade = calculate_grade(score)
