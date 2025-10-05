@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74334735-6f3c-472c-bc4f-8bcb1a1e6439" name="Changes" comment="my_first_commit">
-      <change afterPath="$PROJECT_DIR$/tower_of_hanoi_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +47,17 @@
   "keyToString": {
     "Python.calculator.executor": "Run",
     "Python.expense_tracker.executor": "Run",
+    "Python.merge_sort_algorithm.executor": "Run",
     "Python.python.executor": "Run",
     "Python.shortest_path_algorithm.executor": "Run",
     "Python.student_file.executor": "Run",
     "Python.test.executor": "Run",
     "Python.text.executor": "Run",
     "Python.tower_of_hanoi_1.executor": "Run",
+    "Python.tower_of_hanoi_recursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/download",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -131,7 +133,55 @@
       <option name="project" value="LOCAL" />
       <updated>1759533444680</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759689597068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759689597068</updated>
+    </task>
+    <task id="LOCAL-00009" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759689606937</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759689606937</updated>
+    </task>
+    <task id="LOCAL-00010" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759689631105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759689631105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759689670183</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759689670183</updated>
+    </task>
+    <task id="LOCAL-00012" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759702757736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759702757736</updated>
+    </task>
+    <task id="LOCAL-00013" summary="my_first_commit">
+      <option name="closed" value="true" />
+      <created>1759702785081</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759702785081</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +196,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="my_first_commit" />
     <option name="LAST_COMMIT_MESSAGE" value="my_first_commit" />
   </component>
