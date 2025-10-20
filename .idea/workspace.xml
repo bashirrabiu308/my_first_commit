@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74334735-6f3c-472c-bc4f-8bcb1a1e6439" name="Changes" comment="my_first_commit">
+    <list default="true" id="74334735-6f3c-472c-bc4f-8bcb1a1e6439" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.calculator.executor": "Run",
+    "Python.class.executor": "Run",
     "Python.expense_tracker.executor": "Run",
     "Python.merge_sort_algorithm.executor": "Run",
     "Python.python.executor": "Run",
@@ -53,6 +55,7 @@
     "Python.student_file.executor": "Run",
     "Python.test.executor": "Run",
     "Python.text.executor": "Run",
+    "Python.time_calculator.executor": "Run",
     "Python.tower_of_hanoi_1.executor": "Run",
     "Python.tower_of_hanoi_recursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -181,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759702785081</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new file added">
+      <option name="closed" value="true" />
+      <created>1760203412239</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1760203412239</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1760203480262</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760203480262</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +217,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="my_first_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my_first_commit" />
+    <MESSAGE value="new file added" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
